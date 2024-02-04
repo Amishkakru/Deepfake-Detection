@@ -1,4 +1,4 @@
-#Deepfake Detection
+# Deepfake Detection
 
 ## 1. Mount Google Drive
 - Mounts Google Drive to access files.
